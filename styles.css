@@ -9,6 +9,3 @@ img {
   width: 320px;
 }
 
-.reset-style, .reset-style * {
-        all: revert;
-    }
