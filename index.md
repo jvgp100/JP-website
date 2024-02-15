@@ -2,7 +2,7 @@
 
 ## Games
 
-*   [What I played in 2023](games.html), [2022](games22.html)
+*   [What I played in 2023](games.md), [2022](games22.html)
 
 ## Books
 
