@@ -4,6 +4,8 @@
 
 *   [What I played in 2023](games.md), [2022](games22.html)
 
+*   [What I thought about what I played in 2023(games23thoughts.md)
+
 ## Books
 
 *   [What I read in 2023](books.md)
