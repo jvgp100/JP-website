@@ -1,4 +1,4 @@
-#### I hope Mark enjoys this website.
+#### I hope Mark and Wilko enjoy this website.
 
 ## Games
 
@@ -18,4 +18,4 @@
 
 ![A floppy](pc.jpeg "A picture of a floppy disk that I thought would look nice at the bottom of my home page.")
 
-Last updated: 15 Feb 2024 (_last update: using the magic of Markdown_) | [About this page](about.md)
+Last updated: 15 Feb 2024 (_last update: recognising our second reader - Wilko_) | [About this page](about.md)
