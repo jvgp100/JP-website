@@ -1,4 +1,4 @@
-<center>[[Home]](index.html)
+<center>[[Home]](index.md)
 
 ## About this website
 
