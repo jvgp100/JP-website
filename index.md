@@ -10,7 +10,7 @@
 
 *   [Horus Heresy reading order](horus.html)
 
-*   [Some excerpts from Meditations](meditations.html)
+*   [Some excerpts from Meditations](meditations.md)
 
 ## Other stuff
 
