@@ -1,5 +1,3 @@
-<center>[[Home]](index.md)
-
 ## About this website
 
 It started like this:  
