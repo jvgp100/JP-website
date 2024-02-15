@@ -6,7 +6,7 @@
 
 ## Books
 
-*   [What i've read in 2023](books.md)
+*   [What I read in 2023](books.md)
 
 *   [Horus Heresy reading order](horus.html)
 
