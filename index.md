@@ -8,7 +8,7 @@
 
 ## Books
 
-*   [What i've read in 2023](books.html)
+*   [What i've read in 2023](books.md)
 
 *   [Horus Heresy reading order](horus.html)
 
@@ -20,4 +20,4 @@
 
 ![A floppy](pc.jpeg "A picture of a floppy disk that I thought would look nice at the bottom of my home page.")
 
-Last updated: 27 Jan 2024 (_last update: content on 2023 games_) | [About this page](about.html)
+Last updated: 27 Jan 2024 (_last update: content on 2023 games_) | [About this page](about.md)
