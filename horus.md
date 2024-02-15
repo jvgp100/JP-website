@@ -1,8 +1,11 @@
-<title>Horus Heresy</title><h1 id="horus-heresy-reading-order">Horus Heresy reading order</h1>
-<p><a href="index.html">[Back Home]</a></p>
-<p>This was published in the March and April 2019 editions of White Dwarf magazine, and it is the order I&#39;ve been following for the last few years. Because, let&#39;s face it, who has the time to read 60 something books? Not me! You probably don&#39;t even have time to read the abbreviated list below. But give it a go, maybe. If you want. I have only included the &quot;essentials&quot; - none of the side plots, none of the &quot;further related reading&quot;, etc.</p>
-<h2 id="the-great-crusade-era">The Great Crusade Era</h2>
-<p>The opening trilogy perfectly sets the scene for everything that is to follow. The Great Crusade is drawing to a close and the Emperor returns to Terra, pronouncing Horus Warmaster...</p>
+# Horus Heresy reading order
+
+This was published in the March and April 2019 editions of White Dwarf magazine, and it is the order I've been following for the last few years. Because, let's face it, who has the time to read 60 something books? Not me! You probably don't even have time to read the abbreviated list below. But give it a go, maybe. If you want. I have only included the "essentials" - none of the side plots, none of the "further related reading", etc.
+
+## The Great Crusade Era
+
+The opening trilogy perfectly sets the scene for everything that is to follow. The Great Crusade is drawing to a close and the Emperor returns to Terra, pronouncing Horus Warmaster...
+
 <ol>
   <li><em>Horus Rising</em>, Dan Abnett (2006)</li>
 <li><em>False Gods</em>, Graham McNeill (2006)</li>
@@ -100,6 +103,8 @@
   <ol start="54">
     <li><em>The Buried Dagger</em>, James Swallow (2019)</li>
   </ol>
-  <h2>The Siege of Terra</h2>
-  <p>Everything has led to this moment... the greatest battle ever fought in the history of mankind begins, the very fate of the galaxy at stake.</p>
-  <P>So, uh, what that means in practice is that there's an entire follow-up mini-series, called "The Siege of Terra", comprised of 9 further books which you have to read all of. Sorry about that.
+ ## The Siege of Terra
+
+Everything has led to this moment... the greatest battle ever fought in the history of mankind begins, the very fate of the galaxy at stake.
+
+So, uh, what that means in practice is that there's an entire follow-up mini-series, called "The Siege of Terra", comprised of 9 further books which you have to read all of. Sorry about that.
