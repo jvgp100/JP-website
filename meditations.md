@@ -1,7 +1,5 @@
 # Meditations (Τὰ εἰς ἑαυτόν)
 
-[[Back Home]](index.html)
-
 That's right, I have an Ancient Greek A-Level. And, that's right, I just copied the Greek from the [Wikipedia entry](https://en.wikipedia.org/wiki/Meditations). Anyway, as I was reading this, I jotted down some of my favourite passages. Now you too can share in these highlights. These are from the Max Staniforth translation. Enjoy! OR ELSE.
 
 ### Book 4
