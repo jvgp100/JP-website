@@ -69,7 +69,7 @@ The opening trilogy perfectly sets the scene for everything that is to follow. T
     <li><em>Angels of Caliban</em>, Gav Thorpe (2016)</li>
   </ol>
 <h2>Plight of the Loyal Legions</h2>
-    <p> The loyal Primarchs begin to follow their own paths as they try to fight for mankind's freedom from tyranny.* </p>
+<p>The loyal Primarchs begin to follow their own paths as they try to fight for mankind's freedom from tyranny.</p>
    <ol start="28">
      <li><em>Scars</em>, Chris Wraight (2014)</li>
 </ol>
