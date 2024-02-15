@@ -1,10 +1,6 @@
-<center>[[Home]](index.html)
-
 # Games in 2023
 
 ★ denotes a "JP's Mega-Hax Award" winner!
-
-[[Back Home]](index.html)
 
 ## PC games
 
