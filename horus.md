@@ -1,6 +1,6 @@
 # Horus Heresy reading order
 
-This was published in the March and April 2019 editions of White Dwarf magazine, and it is the order I've been following for the last few years. Because, let's face it, who has the time to read 60 something books? Not me! You probably don't even have time to read the abbreviated list below. But give it a go, maybe. If you want. I have only included the "essentials" - none of the side plots, none of the "further related reading", etc.
+This was published in the March and April 2019 editions of White Dwarf magazine, and it is the order I've been following for the last few years. Because, let's face it, who has the time to read 60 something books? Not me! You probably don't even have time to read the abridged list below. But give it a go, maybe. If you want. I have only included the "essentials" - none of the side plots, none of the "further related reading", etc.
 
 ## The Great Crusade Era
 
