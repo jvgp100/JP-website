@@ -68,10 +68,10 @@ The opening trilogy perfectly sets the scene for everything that is to follow. T
     <li><em>Pharos</em>, Guy Hayley (2015)</li>
     <li><em>Angels of Caliban</em>, Gav Thorpe (2016)</li>
   </ol>
-    <h2>Plight of the Loyal Legions</h2>
-    <p>The loyal Primarchs begin to follow their own paths as they try to fight for mankind's freedom from tyranny. [A note from JP - this is a bit of a "choose your own adventure" style scenario
+<h2>Plight of the Loyal Legions</h2>
+    <p>The loyal Primarchs begin to follow their own paths as they try to fight for mankind's freedom from tyranny. \[A note from JP - this is a bit of a "choose your own adventure" style scenario
     in that you can follow the story of the Raven Guard, the Salamanders or the White Scars. You could choose all three, but the whole point of this list is to acknowledge that no-one has enough time for that.
-    So, instead, I am choosing for you: the White Scars. If you really want to know what books are recommended for the Raven Guard and the Salamanders, well, ask me. I'll tell you.]</p>
+    So, instead, I am choosing for you: the White Scars. If you really want to know what books are recommended for the Raven Guard and the Salamanders, well, ask me. I'll tell you.\]</p>
    <ol start="28">
      <li><em>Scars</em>, Chris Wraight (2014)</li>
 </ol>
@@ -103,7 +103,8 @@ The opening trilogy perfectly sets the scene for everything that is to follow. T
   <ol start="54">
     <li><em>The Buried Dagger</em>, James Swallow (2019)</li>
   </ol>
- ## The Siege of Terra
+
+## The Siege of Terra
 
 Everything has led to this moment... the greatest battle ever fought in the history of mankind begins, the very fate of the galaxy at stake.
 
