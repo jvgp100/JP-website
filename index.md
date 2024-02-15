@@ -1,5 +1,3 @@
-# JP's website
-
 #### I hope Mark enjoys this website.
 
 ## Games
