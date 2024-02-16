@@ -20,4 +20,4 @@
 
 ![A floppy](pc.jpeg "A picture of a floppy disk that I thought would look nice at the bottom of my home page.")
 
-Last updated: 15 Feb 2024 (_last update: recognising our second reader - Wilko_) | [About this page](about.md) | [On "teh socialz"](https://mastodonapp.uk/@katsumoto)
+Last updated: 16 Feb 2024 (_last update: adding Mastodon link_) | [About this page](about.md) | [On "teh socialz"](https://mastodonapp.uk/@katsumoto)
