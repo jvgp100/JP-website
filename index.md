@@ -2,7 +2,7 @@
 
 ## Games
 
-*   [What I played in 2023](games.md), [2022](games22.html)
+*   [What I played in 2024](games24.md), [2023](games23.md), [2022](games22.md)
 
 *   [What I thought about what I played in 2023](games23thoughts.md)
 
