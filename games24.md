@@ -14,4 +14,4 @@ The Secret of Monkey Island, Lucasfilm Games (1990)
 
 ## Console games
 
-The Elder Scrolls IV: Oblivion, Bethesda Game Studios (2006)
+The Elder Scrolls IV: Oblivion (PS3), Bethesda Game Studios (2006)
