@@ -1,5 +1,9 @@
 #### I hope Mark and Wilko enjoy this website.
 
+## The blog of ultimate peril and despair
+
+* [2024 entries](blog24.md)
+  
 ## Games
 
 *   [What I played in 2024](games24.md), [2023](games23.md), [2022](games22.md)
@@ -20,4 +24,4 @@
 
 ![A floppy](pc.jpeg "A picture of a floppy disk that I thought would look nice at the bottom of my home page.")
 
-Last updated: 16 Feb 2024 (_last update: adding Mastodon link_) | [About this page](about.md) | [On "teh socialz"](https://mastodonapp.uk/@katsumoto)
+Last updated: 18 Feb 2024 (_last update: creating blog, adding 2024 games list_) | [About this page](about.md) | [On "teh socialz"](https://mastodonapp.uk/@katsumoto)
