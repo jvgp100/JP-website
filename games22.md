@@ -2,8 +2,6 @@
 
 ★ denotes a "JP's Mega-Hax Award" winner!
 
-[[Back Home]](index.html)
-
 ## PC games
 
 Raptor
