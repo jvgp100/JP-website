@@ -26,7 +26,7 @@ Elden Ring (PS5), From Software (2022)
 
 Dark Forces: Remastered (PS5), Nightdive Studios (2024)
 
-LLamasoft: the Jeff Minter Story (PS5), Digital Eclipse (2024)
+Llamasoft: the Jeff Minter Story (PS5), Digital Eclipse (2024)
 
 Dead Space (PS3), EA Redwood (2008)
 
