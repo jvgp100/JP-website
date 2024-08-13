@@ -20,7 +20,7 @@ Season 1 down! I have to say, I definitely found more to enjoy than in previous 
 - [x] 09/07/2024: Invasion of the Body Snatchers (Movie)
 - [x] 30/06/2024: The Lost and the Damned (Book)
 - [x] 16/06/2024: Slow Productivity (Book)
-👍: a bit of a tepid thumbs up, mainly because I feel like I read this all before, because I have. This is basically a “greatest hits” of what he has already gone over many times on his podcast and his blog.
+A bit of a tepid thumbs up, mainly because I feel like I read this all before, because I have. This is basically a “greatest hits” of what he has already gone over many times on his podcast and his blog.
 
 - [x] 15/06/2024: MDK (Video Game)
 - [x] 14/06/2024: S.T.A.L.K.E.R.: Legends of the Zone Trilogy (Video Game)
