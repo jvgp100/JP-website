@@ -1,6 +1,3 @@
-#### I hope Mark and Wilko enjoy this website.
-
-## The blog of ultimate peril and despair
 
 # Doom 3
 
