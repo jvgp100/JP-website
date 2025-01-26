@@ -1,5 +1,3 @@
-<style> body { font-family: times-new-roman; } </style>
-
 #### I hope Mark and Wilko enjoy this website.
 
 ## The blog of ultimate peril and despair
